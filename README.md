@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning different CNN architectures.<br><br>💬 Ask me about anything related to AI/ML or data science and I might be able to help!<br><br>⚡ Fun fact: I'm also a barista!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulazizom) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atalomair) 
 
