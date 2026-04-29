@@ -1,14 +1,22 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulazizom) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atalomair) 
+# Abdulaziz Alomair
 
-# 💻 Programming:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alomair02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alomair02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alomair02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Computer engineering graduate building across product software, backend systems, embedded platforms, and AI-assisted tooling.
 
----
-[![](https://visitcount.itsvg.in/api?id=Alomair02&icon=2&color=6)](https://visitcount.itsvg.in)
+Project Mou is the curated entry point for my portfolio. It organizes the public repositories, private-prep case studies, and technical domains into one inspectable map.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Portfolio: https://github.com/Alomair02/Mou
+- LinkedIn: https://www.linkedin.com/in/abdulazizom
+- Email: abdulaziz.t.alomair@gmail.com
+
+## Featured Work
+
+- Project Mou: React, TypeScript, Vite, and React Three Fiber portfolio interface.
+- Flybee backend: Go API for travel planning, social coordination, media, and chat services.
+- ESP32 video interpolation: embedded camera streaming with OpenCV/PyTorch processing.
+- OS CPU scheduler: C systems project with scheduling workloads and tests.
+- Credit Analyst RAG: private-prep AI/RAG case study pending key rotation and clean history rebuild.
+
+## Current Focus
+
+- Keeping GitHub portfolio-first: polished public repositories, archived stale experiments, and private-prep work clearly labeled.
+- Turning project history into clean evidence for software, systems, and AI engineering roles.
