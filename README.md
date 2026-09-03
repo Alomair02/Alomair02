@@ -27,13 +27,13 @@ Right now I work as an engineer to build a suite of custom AI software for my cl
 ## Background
 
 **KAUST Academy** — Teaching Assistant & Professional Trainer, Data Science & AI/ML · *Jun 2026 – Present*
-Run accelerated training and fine-tuning workloads on IBEX, KAUST's HPC cluster; built SLURM job automation and user-side observability for multi-node GPU jobs. Partner with KAUST consultants on an enterprise AI-transformation engagement.
+Run accelerated training and fine-tuning workloads on IBEX, KAUST's HPC cluster; built SLURM job automation and user-side observability for multi-node GPU jobs. Partner with KAUST consultants on an enterprise AI-transformation engagement; Served as a research assistant in the authorship of a CV paper.
 
 **Flybee** — Founder & Software Engineer · *Sep 2025 – May 2026*
 Owned an AI travel platform end to end: ~80k lines of Go across 47 packages, 74 schema migrations, JWT auth and RBAC, containerized services behind nginx on GCP. Built FlyHive, a multi-provider agent layer with hand-rolled HTTP clients and a tool-calling loop — no vendor SDKs. Shipped both clients: native iOS in SwiftUI, and a React + TypeScript admin SPA.
 
 **Schneider Electric** — R&D Intern, Distributed Systems · *Aug 2025 – Dec 2025*
-Deployed Eclipse Symphony on Kubernetes as a declarative orchestration control plane for heterogeneous automation targets. Modeled IEC 61499 components for IT/OT integration across two deployments.
+Deployed Eclipse Symphony on Kubernetes and the Ubicity Orchestrator, as a declarative orchestration control plane for heterogeneous automation targets. Modeled IEC 61499 components for IT/OT integration across two deployments.
 
 **KAUST Academy** — Teaching Assistant, Deep Learning · *Jun 2025 – Sep 2025*
 Built and delivered coursework across NLP and CV modules; advised 10+ teams through scoping and delivery.
