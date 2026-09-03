@@ -2,7 +2,7 @@
 
 Computer engineer. I start from a domain's real constraints, model the problem to fit them, then build down the stack until it runs in production.
 
-Right now that means teaching and running GPU workloads at **KAUST Academy**, and building trading and reserving systems on the side.
+Right now I work as an engineer to build a suite of custom AI software for my clients, and a consultant in my field.
 
 - 🌐 Portfolio — [alomair02.github.io/Mou](https://alomair02.github.io/Mou)
 - 💼 LinkedIn — [in/abdulazizom](https://www.linkedin.com/in/abdulazizom)
