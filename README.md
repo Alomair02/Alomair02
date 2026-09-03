@@ -18,9 +18,9 @@ Right now I work as an engineer to build a suite of custom AI software for my cl
 | **Backend** | Gin · GORM · PostgreSQL · SQLAlchemy · Alembic · Next.js · React 19 |
 | **Infrastructure** | Docker · Kubernetes & Helm · nginx · GCP · AWS · GitHub Actions · SLURM |
 | **Observability** | OpenTelemetry · Prometheus |
-| **AI / ML** | PyTorch · Transformers · vLLM · llama.cpp · LoRA & quantization · multi-modal RAG · agent tooling |
-| **Compute** | ROCm / HIP · CUDA-class GPU kernels · HPC job orchestration on IBEX |
-| **Data** | pandas · NumPy · XGBoost · walk-forward & blocked CV · Monte Carlo simulation |
+| **AI / ML** | Scikit-Learn · PyTorch · Transformers · vLLM · llama.cpp · LoRA & quantization · multi-modal RAG · agent tooling · MLX & MTPLX |
+| **Compute** | ROCm / HIP · CUDA-class GPU kernels |
+| **Data** | pandas · NumPy · XGBoost · Cross-validation · Monte Carlo |
 
 ---
 
